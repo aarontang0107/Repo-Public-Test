@@ -1,0 +1,102 @@
+[
+{
+  "para": [
+    {
+      "ParaName": "case",
+      "bolInput": false,
+      "bolOutput": false,
+      "bolInp_Fixed_or_Recurrent": false,
+      "bolOut_Leaved_of_Recurrent": false,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 1,
+      "intSequence_nn": 0,
+      "Norm_Real_max": -999999999.0,
+      "Norm_Real_min": 999999999.0,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    },
+    {
+      "ParaName": "time",
+      "bolInput": false,
+      "bolOutput": false,
+      "bolInp_Fixed_or_Recurrent": false,
+      "bolOut_Leaved_of_Recurrent": false,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 2,
+      "intSequence_nn": 0,
+      "Norm_Real_max": -999999999.0,
+      "Norm_Real_min": 999999999.0,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    },
+    {
+      "ParaName": "i1",
+      "bolInput": true,
+      "bolOutput": false,
+      "bolInp_Fixed_or_Recurrent": false,
+      "bolOut_Leaved_of_Recurrent": false,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 3,
+      "intSequence_nn": 0,
+      "Norm_Real_max": 0.5,
+      "Norm_Real_min": 0.1,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    },
+    {
+      "ParaName": "i2",
+      "bolInput": true,
+      "bolOutput": false,
+      "bolInp_Fixed_or_Recurrent": true,
+      "bolOut_Leaved_of_Recurrent": false,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 4,
+      "intSequence_nn": 1,
+      "Norm_Real_max": 0.55,
+      "Norm_Real_min": 0.1,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    },
+    {
+      "ParaName": "o2",
+      "bolInput": false,
+      "bolOutput": true,
+      "bolInp_Fixed_or_Recurrent": false,
+      "bolOut_Leaved_of_Recurrent": false,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 5,
+      "intSequence_nn": -1,
+      "Norm_Real_max": 5.42940975,
+      "Norm_Real_min": -0.128,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    },
+    {
+      "ParaName": "o1`",
+      "bolInput": false,
+      "bolOutput": true,
+      "bolInp_Fixed_or_Recurrent": false,
+      "bolOut_Leaved_of_Recurrent": true,
+      "bolUsePara1maxmin": false,
+      "pre_defined_Max": 0.0,
+      "pre_defined_Min": 0.0,
+      "intSequence_db": 6,
+      "intSequence_nn": 2,
+      "Norm_Real_max": 1.85371875,
+      "Norm_Real_min": 0.08,
+      "Norm_max": 0.9,
+      "Norm_min": 0.1
+    }
+  ]
+}
+]
